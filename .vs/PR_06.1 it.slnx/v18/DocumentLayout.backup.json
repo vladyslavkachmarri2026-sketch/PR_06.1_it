@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Student_1\\PR_06.1 it\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82D21384-9AA6-2247-A1E1-C0965235A701}|UnitTest_6.1 it\\UnitTest_6.1 it.vcxproj|C:\\Student_1\\PR_06.1 it\\UnitTest_6.1 it\\UnitTest_6.1 it.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{82D21384-9AA6-2247-A1E1-C0965235A701}|UnitTest_6.1 it\\UnitTest_6.1 it.vcxproj|solutionrelative:UnitTest_6.1 it\\UnitTest_6.1 it.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6732D4EC-463A-4F54-AEF5-F2494733EFD9}|PR_06.1 it.vcxproj|C:\\Student_1\\PR_06.1 it\\PR_06.1 it.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6732D4EC-463A-4F54-AEF5-F2494733EFD9}|PR_06.1 it.vcxproj|solutionrelative:PR_06.1 it.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest_6.1 it.cpp",
+              "DocumentMoniker": "C:\\Student_1\\PR_06.1 it\\UnitTest_6.1 it\\UnitTest_6.1 it.cpp",
+              "RelativeDocumentMoniker": "UnitTest_6.1 it\\UnitTest_6.1 it.cpp",
+              "ToolTip": "C:\\Student_1\\PR_06.1 it\\UnitTest_6.1 it\\UnitTest_6.1 it.cpp*",
+              "RelativeToolTip": "UnitTest_6.1 it\\UnitTest_6.1 it.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-28T16:44:53.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PR_06.1 it.cpp",
+              "DocumentMoniker": "C:\\Student_1\\PR_06.1 it\\PR_06.1 it.cpp",
+              "RelativeDocumentMoniker": "PR_06.1 it.cpp",
+              "ToolTip": "C:\\Student_1\\PR_06.1 it\\PR_06.1 it.cpp",
+              "RelativeToolTip": "PR_06.1 it.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAwEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-24T11:36:20.412Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
